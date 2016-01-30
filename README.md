@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quote
 
 `quote` is a C++ library to get Yahoo! Finance data. It gets historical data and the latest quotes strings in csv format.
@@ -119,3 +120,6 @@ quote is distributed in the hope that it will be useful, but WITHOUT ANY WARRANT
 See file `COPYING` included with this distribution or check <http://www.gnu.org/licenses/> for license information.
 
 ![gplv3 logo](http://www.gnu.org/graphics/gplv3-127x51.png)
+=======
+# ProjectX
+>>>>>>> 1d052c2728e8b667c7a2e9f807aeed899826b562
